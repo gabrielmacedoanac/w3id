@@ -1,1 +1,7 @@
 https://github.com/perma-id/w3id.org/tree/master/examples
+
+Example 4: Publish vocabularies with W3ID
+If you plan to publish a vocabulary/ontology with W3ID, see [/example/.htaccess](https://github.com/perma-id/w3id.org/blob/master/example/.htaccess) and https://w3id.org/example/.
+
+Example 5: Version-aware URIs of ontologies
+See [/OWLunit/.htaccess](https://github.com/perma-id/w3id.org/blob/master/OWLunit/.htaccess).
